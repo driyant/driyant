@@ -47,9 +47,8 @@ Beyond the screen, you'll find me embracing the rush of sports and the tranquili
 
 Feel free to explore my repositories and projects. If you'd like to collaborate on something exciting or just want to connect, don't hesitate to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react)](https://yourportfolio.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alaq-a-ryanta/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react)](https://helloriyan.my.id/)
 
 Let's collaborate and build something awesome together!
 
