@@ -1,13 +1,5 @@
 # Hi there, I'm riyan! 👋
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://driyant.github.io/driyant/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://driyant.github.io/driyant/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://driyant.github.io/driyant/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 Welcome to my GitHub profile! I'm a passionate full-stack developer with a love for crafting beautiful and impactful digital experiences. With a blend of creativity and technical expertise, I thrive on turning ideas into reality through the power of code.
 
 ## About Me
@@ -56,6 +48,7 @@ Beyond the screen, you'll find me embracing the rush of sports and the tranquili
 Feel free to explore my repositories and projects. If you'd like to collaborate on something exciting or just want to connect, don't hesitate to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alaq-a-ryanta/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react)](https://helloriyan.my.id/)
+[![driyantlabs](https://img.shields.io/badge/-driyantlabs-black?style=flat-square&logo=react)](https://helloriyan.my.id/)
 
 Let's collaborate and build something awesome together!
+![snake gif](https://github.com/driyant/driyant/blob/output/github-contribution-grid-snake-dark.svg)
